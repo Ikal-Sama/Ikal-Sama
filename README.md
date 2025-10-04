@@ -10,6 +10,6 @@ Hi, I'm Daniel Jhon Bancale, a web developer passionate about building scalable 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Auth.js](https://img.shields.io/badge/Auth.js-2599F4?style=for-the-badge&logo=auth0&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better%20Auth-3D8DFF?style=for-the-badge&logo=auth0&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-1A1A1A?style=for-the-badge&logo=keys&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
